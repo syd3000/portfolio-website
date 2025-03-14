@@ -1,0 +1,162 @@
+[
+    {
+        "imageName": "image1",
+        "title": "Window Sill",
+        "year": 2024,
+        "description": "Acrylic, oil, and graphite on stretched canvas. Fabric, insulation tubing, cardboard, foam, polyester stuffing, wire, tape, thread, yarn, glue, and transparent PLA.",
+        "size": "75 X 66 X 4 inches",
+        "yesNo": "NO"
+    },
+    {
+        "imageName": "image2",
+        "title": "Picnic",
+        "year": 2024,
+        "description": "Acrylic on stretched canvas. Fabric, cardboard, polyester stuffing, thread, and glue.",
+        "size": "25” x 24” x 3”",
+        "yesNo": "no"
+    },
+    {
+        "imageName": "image3",
+        "title": "Translucence",
+        "year": 2024,
+        "description": "Oil and ink on stretched canvas. Fabric, cardboard tubing, polyester stuffing, thread, and glue.",
+        "size": "14.5” x 19” x 3.5”",
+        "yesNo": "no"
+    },
+    {
+        "imageName": "image4",
+        "title": "Family Portrait",
+        "year": 2023,
+        "description": "Acrylic and oil on MDF board. Cardboard, paper, glue, tape, and acrylic paint.",
+        "size": "30” x 60” x 3”",
+        "yesNo": "NO"
+    },
+    {
+        "imageName": "image5",
+        "title": "Thicket",
+        "year": 2024,
+        "description": "Glazed ceramic stoneware.",
+        "size": "12” x 14” x 1.5”",
+        "yesNo": "NO"
+    },
+    {
+        "imageName": "image6",
+        "title": "Smog",
+        "year": 2025,
+        "description": "Oil on stretched canvas. Yellow PLA.",
+        "size": "7.5” x 9.5” x 1.25”",
+        "yesNo": "NO"
+    },
+    {
+        "imageName": "image7",
+        "title": "Dusk",
+        "year": 2025,
+        "description": "Oil on stretched canvas.",
+        "size": "10” x 10”",
+        "yesNo": "NO"
+    },
+    {
+        "imageName": "image8",
+        "title": "Embrace",
+        "year": 2024,
+        "description": "Etched intaglio print on paper.",
+        "size": "12” x 9”",
+        "yesNo": "NO"
+    },
+    {
+        "imageName": "image9",
+        "title": "Fun in the Sun",
+        "year": 2023,
+        "description": "Acrylic, paper, flour, glue, and PLA on canvas panel.",
+        "size": "3 pieces, 10” x 14” x 3” each",
+        "yesNo": "yes"
+    },
+    {
+        "imageName": "image10",
+        "title": "Radar",
+        "year": 2024,
+        "description": "Fabric, yarn, thread, polyester stuffing, and cardboard.",
+        "size": "18” x 20” x 2.5”",
+        "yesNo": "NO"
+    },
+    {
+        "imageName": "image11",
+        "title": "On the Fence",
+        "year": 2024,
+        "description": "Fabric, yarn, thread, polyester stuffing, acrylic paint, and a wooden frame.",
+        "size": "55” x 30” x 8”",
+        "yesNo": "NO"
+    },
+    {
+        "imageName": "image12",
+        "title": "Branch",
+        "year": 2023,
+        "description": "Oil and acrylic on MDF board. Foam, fabric, glue, and twine.",
+        "size": "66” x 74” x 5.5”",
+        "yesNo": "NO"
+    },
+    {
+        "imageName": "image13",
+        "title": "Night Twins",
+        "year": 2024,
+        "description": "Oil on stretched canvas. Fabric, insulation tubing, foam clay, wire, thread, glue, spray paint, and oil paint.",
+        "size": "2 pieces, 13” x 56” x 3” each",
+        "yesNo": "NO"
+    },
+    {
+        "imageName": "image14",
+        "title": "Bed Time",
+        "year": 2025,
+        "description": "Clock mechanism, blue PLA, yellow PLA, oil paint, and glue.",
+        "size": "9” x 9” x 2.5”",
+        "yesNo": "NO"
+    },
+    {
+        "imageName": "image15",
+        "title": "Holding",
+        "year": 2024,
+        "description": "Oil on gesso board. Fabric, blue PLA, teal silk PLA, paper, and glue.",
+        "size": "6” x 8” x 2.5”",
+        "yesNo": "NO"
+    },
+    {
+        "imageName": "image16",
+        "title": "Angel",
+        "year": 2024,
+        "description": "Oil on gesso board. Teal silk PLA.",
+        "size": "6.5” x 8.5” x 0.75”",
+        "yesNo": "NO"
+    },
+    {
+        "imageName": "image17",
+        "title": "Cabin",
+        "year": 2024,
+        "description": "Acrylic on stretched canvas. Unstretched canvas, thread, stock paper, glue, and acrylic paint.",
+        "size": "17.5” x 21.5” x 3.5”",
+        "yesNo": "NO"
+    },
+    {
+        "imageName": "image18",
+        "title": "Sweet Dreams",
+        "year": 2023,
+        "description": "Oil, plaster, fabric, thread, and glue on MDF board.",
+        "size": "48” x 24” x 3”",
+        "yesNo": "yes"
+    },
+    {
+        "imageName": "image19",
+        "title": "Flesh",
+        "year": 2024,
+        "description": "Acrylic, oil, and ink on stretched canvases. Cardboard tubing, cardboard, paper, flour, glue, wire, unstretched canvas, ink, and hair dye.",
+        "size": "62” x 54” x 5.5”",
+        "yesNo": "NO"
+    },
+    {
+        "imageName": "image20",
+        "title": "Fallen Star",
+        "year": 2025,
+        "description": "Oil on gesso board. Blue PLA and oil paint.",
+        "size": "9” x 9.5” x 2”",
+        "yesNo": "NO"
+    }
+]

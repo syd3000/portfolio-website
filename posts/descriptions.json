@@ -1,0 +1,26 @@
+[
+    {
+        "imageName": "image2",
+        "title": "title",
+        "year": 2025,
+        "description": "description",
+        "size": "size",
+        "yesNo": "no"
+    },
+    {
+        "imageName": "image5",
+        "title": "title",
+        "year": 2025,
+        "description": "description",
+        "size": "size",
+        "yesNo": "no"
+    },
+    {
+        "imageName": "image8",
+        "title": "title",
+        "year": 2025,
+        "description": "description",
+        "size": "size",
+        "yesNo": "YES"
+    }
+]
